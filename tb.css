@@ -1,0 +1,63 @@
+#k1 {
+    background-color: aqua;
+    font-style: italic;
+    font-size:larger;
+    color: black;
+}
+
+#k2 {
+    background-color: yellow;
+    font-style: italic;
+    font-size:larger;
+    color: black;
+    width: 150%;
+}
+
+#k3 {
+    background-color: blueviolet;
+    font-style: italic;
+    font-size:larger;
+    color: black;
+}
+
+#no1 {
+    background-color: orangered;
+    font-style: italic;
+    font-size:larger;
+    color: black;
+}
+
+#name1 {
+    background-color: gray;
+    font-style: italic;
+    font-size:larger;
+    color: black;
+}
+
+#age1 {
+    background-color: greenyellow;
+    font-style: italic;
+    font-size:larger;
+    color: black;
+}
+
+#no2 {
+    background-color:gold;
+    font-style: italic;
+    font-size:larger;
+    color: black;
+}
+
+#name2 {
+    background-color:magenta;
+    font-style: italic;
+    font-size:larger;
+    color: black;
+}
+
+#age2 {
+    background-color:navy;
+    font-style: italic;
+    font-size:larger;
+    color: azure;
+}
